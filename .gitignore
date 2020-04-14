@@ -1,0 +1,5 @@
+secrets.tfvars
+*.tfstate*
+service-principal.pfx
+*.terraform*
+gcpcreds.json
